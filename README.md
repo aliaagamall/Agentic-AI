@@ -1,2 +1,15 @@
-# Agentic-AI
-A learning repository documenting my journey through Agentic AI, AI Agents, LLMs, and automation workflows. Contains study notes, practical examples, and hands-on projects.
+# Agentic AI
+
+My notes and projects while learning AI agents and automation.
+
+## What's Here
+- Notes
+- Code examples
+- Projects
+
+## Progress
+- [ ] AI agents basics
+- [ ] Build first agent
+- [ ] Automation workflows
+
+Learning...
