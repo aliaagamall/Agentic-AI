@@ -3,6 +3,8 @@
 #### Description
 The **Smart Car Dealership Automation Workflow** is an automation project built using n8n. It automates the process of notifying the dealership owner via email and logging sale details in a Google Sheet whenever a car is sold. This reduces manual work, minimizes errors, and ensures real-time updates for the owner.
 
+<img width="974" height="576" alt="image" src="https://github.com/user-attachments/assets/744bb090-c80c-4028-8bf6-3b8a49bae74d" />
+
 #### Features
 - **Webhook Trigger**: Captures car sale data (car type, price, buyer) via a POST request from the dealership’s system.
 - **Email Notification**: Sends an email to the owner with sale details (e.g., "A Car has just been sold: [Toyota Camry, $24,000, Sarah Johnson]").
