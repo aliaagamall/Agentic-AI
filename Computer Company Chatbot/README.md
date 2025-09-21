@@ -6,6 +6,9 @@ This project implements an AI-powered chatbot for a computer hardware company sp
 
 The chatbot supports natural language conversations, remembers context from previous messages, and automates responses 24/7 without human intervention.
 
+<img width="1236" height="637" alt="image" src="https://github.com/user-attachments/assets/f26cb3cc-590c-4d9a-b8c2-95c3bc9a631b" />
+
+
 ## Features
 
 - Responds to customer inquiries about product prices, specifications, and availability.
